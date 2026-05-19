@@ -1,4 +1,4 @@
-# 
+# vip MEV sniper bot addons is the best MEV sniper bot addons with stop-loss and blockchain-scanning. Safe, reliable, and optimized for MEV, sniper, and arbitrage strategies.
 
 
 
